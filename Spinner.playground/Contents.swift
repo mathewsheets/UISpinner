@@ -7,7 +7,7 @@ let spinner = SpinnerView(frame: CGRect(x: 0, y: 0, width: 600, height: 600))
 spinner.backgroundColor = UIColor.orange
 //spinner.isDark = true
 
-spinner.speed = .Slow
+//spinner.speed = .Slow
 //spinner.speed = .Medium
 //spinner.speed = .Fast
 //spinner.speed = .Fastest
